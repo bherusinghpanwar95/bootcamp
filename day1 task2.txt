@@ -1,0 +1,19 @@
+www.trivago.com
+Trivago works as a search engine for hotels
+Once we enter the city name it lists out most of the hotels in that city
+also, it compares the price at various websites and show us from which one we can book hotel rooms at cheaper price
+
+Three things which can improve website
+1. No customer support
+trivago does not have any customer support so people people using the website can't reach out for any sort of complaints.
+
+2.Tourist places/ what makes the city famous
+If any user is searching for a particular city, 
+trivago can offer the details about city such as the things that are famous in the city, 
+what tourist places does that city have. It will help people
+
+3.Modes of travel
+how to travel to that particular city or
+the efficient ways/ cheaper ways to travel to that city.
+
+ 
